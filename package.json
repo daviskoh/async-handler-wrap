@@ -1,0 +1,26 @@
+{
+  "name": "async-middleware-wrap",
+  "version": "1.0.0",
+  "description": "Wrapper for middleware functions that use async/await syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviskoh/async-middleware-wrap.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "middleware",
+    "connect",
+    "express"
+  ],
+  "author": "koh.davis.0@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviskoh/async-middleware-wrap/issues"
+  },
+  "homepage": "https://github.com/daviskoh/async-middleware-wrap#readme"
+}
